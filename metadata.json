@@ -1,0 +1,5 @@
+{
+  "name": "Oxelion AI",
+  "description": "Get answers to any question, with sources provided by Google Search. This AI-powered tool uses Google Search grounding to provide up-to-date and cited answers.",
+  "requestFramePermissions": []
+}
